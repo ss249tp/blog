@@ -1,0 +1,6 @@
+site_name: My Blog
+
+site_url: https://ss249tp.github.io/blog
+
+theme:
+  name: material
